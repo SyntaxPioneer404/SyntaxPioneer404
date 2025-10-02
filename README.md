@@ -30,6 +30,12 @@ I am eager to:
 
 ## 💻 Skills
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,ai" alt="Skills" style="max-width: 100%; height: auto;" />
+  <br>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png" alt="AI/Gen-AI" width="120" style="max-width: 100%; height: auto;" />
+</div>
+
 - **Languages & Technologies:**  
   - Java  
   - HTML & CSS  
@@ -45,18 +51,31 @@ I am eager to:
 - Role: Contributor
 - Description: Facilitates domestic employment opportunities and management.
 - **Tech Stack:** HTML (100%)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="max-width: 100%; height: auto;" />
+</div>
 
 ### [Animal Management System](https://github.com/SyntaxPioneer404/Animal-Management-System)
 - Role: Owner
 - Description: This Web App simulates how a Zoo Manages different types of animals through feeding, behavior monitoring and health checks.
 - **Tech Stack:** HTML (81.4%), CSS (18.6%)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML CSS" style="max-width: 100%; height: auto;" />
+  <br>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Elephant/3D/elephant_3d.png" alt="Animal Management" width="120" style="max-width: 100%; height: auto;" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![SyntaxPioneer404 GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyntaxPioneer404&show_icons=true&theme=react)
-![SyntaxPioneer404 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxPioneer404&layout=compact&theme=react)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyntaxPioneer404&show_icons=true&theme=react" alt="SyntaxPioneer404 GitHub Stats" style="max-width: 100%; height: auto;" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxPioneer404&layout=compact&theme=react" alt="SyntaxPioneer404 Top Languages" style="max-width: 100%; height: auto;" />
+  <br>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar chart/3D/bar_chart_3d.png" alt="GitHub Stats 3D" width="120" style="max-width: 100%; height: auto;" />
+</div>
 
 > _These stats showcase my GitHub activity, repositories, and top languages used._
 
