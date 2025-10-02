@@ -24,7 +24,7 @@ I am eager to:
 | 2024 | Graphic/Multimedia Web Design NQF L4                        |
 | 2025 | Oracle Certified Associate, Java SE 8 Programmer            |
 | 2025 | IT Specialist (Java)                                        |
-| 2025 | GenAI For Software Engineers                                |
+| 2025 | Gen-AI For Software Engineers                                |
 
 ---
 
@@ -51,10 +51,13 @@ I am eager to:
 
 - **Languages & Technologies:**  
   - Java  
-  - HTML & CSS  
+  - HTML/HTML5
+  - CSS  
 - **AI & Gen-AI:**  
   - Gen-AI  
   - AI Tool Prompting
+  - Evaluation & Testing
+  - Data Preparation & Curation
 
 ---
 
