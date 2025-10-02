@@ -53,11 +53,12 @@ I am eager to:
 
 ---
 
-## 📈 Progress Graph
+## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SyntaxPioneer404&theme=react-dark)
+![SyntaxPioneer404 GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyntaxPioneer404&show_icons=true&theme=react)
+![SyntaxPioneer404 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxPioneer404&layout=compact&theme=react)
 
-> _This graph visualizes my GitHub contributions, activity, and project progress over time._
+> _These stats showcase my GitHub activity, repositories, and top languages used._
 
 ---
 
