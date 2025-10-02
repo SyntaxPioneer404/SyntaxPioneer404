@@ -39,6 +39,28 @@ I am eager to:
 
 ---
 
+## 🚀 Projects
+
+### [Domestic Employment Hub](https://github.com/KwenaMasoma/Domestic-Employment-Hub)
+- Role: Contributor
+- Description: Facilitates domestic employment opportunities and management.
+- **Tech Stack:** HTML (100%)
+
+### [Animal Management System](https://github.com/SyntaxPioneer404/Animal-Management-System)
+- Role: Owner
+- Description: This Web App simulates how a Zoo Manages different types of animals through feeding, behavior monitoring and health checks.
+- **Tech Stack:** HTML (81.4%), CSS (18.6%)
+
+---
+
+## 📈 Progress Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SyntaxPioneer404&theme=react-dark)
+
+> _This graph visualizes my GitHub contributions, activity, and project progress over time._
+
+---
+
 ## 🌱 Career Objectives
 
 I am currently seeking opportunities to:
