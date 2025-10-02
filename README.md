@@ -28,6 +28,19 @@ I am eager to:
 
 ---
 
+## 🏢 IBM Certifications
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" width="120" style="max-width: 100%; height: auto;" />
+</div>
+
+| Year | Certification                  |
+|------|-------------------------------|
+| 2025 | IBM-AI Fundamentals           |
+| 2025 | IBM-Professional Skills        |
+
+---
+
 ## 💻 Skills
 
 <div align="center">
